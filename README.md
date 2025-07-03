@@ -1,7 +1,5 @@
 # Learning Assistant AI Agent
 
-![Project Banner](https://via.placeholder.com/1200x400?text=Learning+Assistant+AI+Agent)
-
 ИИ-агент для помощи в обучении, обработки документов и анализа кода.
 
 ## 📌 О проекте
